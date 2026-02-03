@@ -15,7 +15,7 @@ const ProductDetails = () => {
   const [related, setRelated] = useState<Product[]>([]);
   const [loadingRelated, setLoadingRelated] = useState(false);
   const railRef = useRef<HTMLDivElement | null>(null);
-  const PHONE = "+254782234243";
+  const PHONE = "+254780479342";
 
   const waLink = useMemo(() => {
     const url = typeof window !== "undefined" ? window.location.href : "";

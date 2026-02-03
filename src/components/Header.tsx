@@ -29,14 +29,14 @@ const Header = () => {
           <div className="flex gap-4 items-center">
             <Link to="/contact" className="hover:text-primary transition-colors">Contact Us</Link>
             <a
-              href="https://wa.me/254782234243"
+              href="https://wa.me/254780479342"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-secondary hover:opacity-80"
               aria-label="Order via WhatsApp"
             >
               <Phone className="h-4 w-4" />
-              <span className="font-medium">+254 782 234 243</span>
+              <span className="font-medium">+254 780 479 342</span>
             </a>
           </div>
         </div>
