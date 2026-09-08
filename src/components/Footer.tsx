@@ -74,11 +74,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3 text-sm">
                 <Phone className="h-4 w-4 text-secondary" />
-            
+                <a href="tel:+254789638352" className="hover:text-secondary transition-colors">+254 789 638 352</a>
               </div>
               <div className="flex items-center gap-3 text-sm">
                 <Mail className="h-4 w-4 text-secondary" />
-              
+                <a href="mailto:info@kenpoly.com" className="hover:text-secondary transition-colors">info@kenpoly.com</a>
               </div>
             </div>
           </div>

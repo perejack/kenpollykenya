@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 
-const PHONE = "+254785156830";
+const PHONE = "+254789638352";
 
 const FloatingWhatsApp = () => {
   const waLink = useMemo(() => {

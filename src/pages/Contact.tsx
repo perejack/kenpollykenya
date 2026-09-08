@@ -10,7 +10,7 @@ const Contact = () => {
         <p className="text-muted-foreground max-w-2xl mb-6">Have questions or business enquiries? We're here to help.</p>
         <div className="space-y-2 text-sm">
           <div>Email: info@kenpoly.com</div>
-          <div>Phone: +254 785 156 830</div>
+          <div>Phone: +254 789 638 352</div>
           <div>Location: Nairobi, Kenya</div>
         </div>
       </main>

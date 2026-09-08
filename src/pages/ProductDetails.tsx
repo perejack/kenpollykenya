@@ -15,7 +15,7 @@ const ProductDetails = () => {
   const [related, setRelated] = useState<Product[]>([]);
   const [loadingRelated, setLoadingRelated] = useState(false);
   const railRef = useRef<HTMLDivElement | null>(null);
-  const PHONE = "+254785156830";
+  const PHONE = "+254789638352";
 
   const waLink = useMemo(() => {
     const url = typeof window !== "undefined" ? window.location.href : "";
@@ -129,7 +129,7 @@ const ProductDetails = () => {
                       </div>
                       <div>
                         <div className="text-sm text-muted-foreground">Call to order</div>
-                        <div className="text-lg font-semibold tracking-wide">+254 785 156 830</div>
+                        <div className="text-lg font-semibold tracking-wide">+254 789 638 352</div>
                       </div>
                     </div>
                     <div className="flex items-center gap-2">
